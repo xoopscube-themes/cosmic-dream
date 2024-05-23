@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2024 XOOPSCube Themes
+Copyright (c) 2019-2024 Pico
+Copyright (c) 2019-2024 Nuno Luciano, XCL Theme
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
