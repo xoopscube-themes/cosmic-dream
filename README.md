@@ -7,7 +7,7 @@
 
 XCL Theme Cosmisc Dream : [https://xoopscube-themes.github.io/xcl-picocss-157](https://xoopscube-themes.github.io/xcl-picocss-157)
 
-![XCL Theme Cosmic Dream](https://repository-images.githubusercontent.com/615645137/cf12b8f2-df2c-49ed-88a7-5e77ab3c0488)
+![XCL Theme Cosmic Dream](/screenshot.png)
 
 ---
 
